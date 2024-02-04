@@ -1,5 +1,5 @@
 **Installation and Setup of Smarty:**
-
+ 
 To use Smarty in your project, you need to install it and set up the basic project structure. Follow the steps below:
 
 ### Step 1: Install Smarty
